@@ -12,7 +12,12 @@
 int main(int argc, char **argv) {
 
   printf("Jonathan Haag!\n");
-  printf("Mechanical Engineering\n")
+  printf("Mechanical Engineering\n");
+
+  printf("I've used a different account belonging\n
+    to me in order to collaborate\n");
+  printf("I'm not sure how to find a partner in\n
+    this class\n");
 
   return 0;
 }
